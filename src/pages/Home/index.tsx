@@ -6,7 +6,6 @@ import Bmac from "../../assets/bmc-button.png";
 import ButtonLand from "../../assets/buttonland.png";
 import Github from "../../assets/github.png";
 import Header from "../../Components/Header";
-import Mail from "../../assets/mail.png";
 import Playstore from "../../assets/playstore.png";
 import strings from "../../config/strings.json";
 import useStyles from "./styles";
