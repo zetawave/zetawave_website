@@ -1,7 +1,6 @@
 {
   "name": "zetawave_website",
   "version": "0.1.0",
-  "homepage":"https://zetawave.github.io/zetawave_website",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.11.1",
