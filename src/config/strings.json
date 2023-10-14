@@ -2,5 +2,7 @@
   "home.text.welcome": "Hello, I'm Zetawave",
   "home.text.bash": "zetawave@whoami:~$",
   "home.text.softwareEngineer": "Software Engineer",
-  "home.text.push": "Push"
+  "home.text.push": "Push",
+  "contact":"Contact: z3tawave@gmail.com",
+  "bmaclink":"https://www.buymeacoffee.com/zetawave"
 }

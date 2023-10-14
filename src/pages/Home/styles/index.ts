@@ -10,10 +10,32 @@ const useStyles = makeStyles(() => ({
         justifySelf:'center',
         position:'relative',
         top:'20%',
-        borderRadius:'20px'
+        borderRadius:'20px',
+        boxShadow:'-1px 1px 100px 0px #d3e9d4'
     },
     boxItem:{
-        padding:'1rem'
+        alignSelf:'center',
+        padding:0,
+        margin:0
+    },
+    text:{
+        fontFamily: "IBM Plex Sans Condensed !important",
+        fontWeight:'500 !important',
+        fontSize:'1.5rem !important'
+    },
+    icon:{
+        width:'5rem',
+        height:'5rem',
+        padding:'1rem',
+        cursor:'pointer'
+    },
+    button:{
+        // width:'5rem',
+        // height:'5rem',
+        width:'228px',
+        height:'64px',
+        padding:'1rem',
+        cursor:'pointer'
     }
 }));
 

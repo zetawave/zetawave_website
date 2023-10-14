@@ -1,3 +1,4 @@
+import { Colors } from "../../../config/palette";
 import { makeStyles } from "@mui/styles";
 
 const useStyles = makeStyles(() => ({
@@ -17,7 +18,7 @@ const useStyles = makeStyles(() => ({
     paddingTop: "1.5rem",
   },
   bar: {
-    backgroundColor: "#20C20E",
+    backgroundColor: Colors.GREEN,
     width: "1.125rem",
     height: "3.75rem",
     marginLeft: "0.3rem",
