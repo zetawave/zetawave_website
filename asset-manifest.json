@@ -1,14 +1,15 @@
 {
   "files": {
-    "main.js": "/zetawave_website/static/js/main.0f32f136.js",
+    "main.js": "/zetawave_website/static/js/main.c7741eac.js",
     "static/media/bmc-button.png": "/zetawave_website/static/media/bmc-button.01c535cbb3d77310a940.png",
     "static/media/buttonland.png": "/zetawave_website/static/media/buttonland.20ab2b85385067562faf.png",
+    "static/media/colorbrush.png": "/zetawave_website/static/media/colorbrush.700725f7ca0399812c62.png",
     "static/media/bidoo_analyzer.png": "/zetawave_website/static/media/bidoo_analyzer.36c6bf2711e87b1cc367.png",
     "static/media/playstore.png": "/zetawave_website/static/media/playstore.46ad842a618a2b4383d9.png",
     "index.html": "/zetawave_website/index.html",
-    "main.0f32f136.js.map": "/zetawave_website/static/js/main.0f32f136.js.map"
+    "main.c7741eac.js.map": "/zetawave_website/static/js/main.c7741eac.js.map"
   },
   "entrypoints": [
-    "static/js/main.0f32f136.js"
+    "static/js/main.c7741eac.js"
   ]
 }
