@@ -4,6 +4,7 @@ import React, { FC } from "react";
 import Bidoo from "../../assets/bidoo_analyzer.png";
 import Bmac from "../../assets/bmc-button.png";
 import ButtonLand from "../../assets/buttonland.png";
+import Colorbrush from '../../assets/colorbrush.png'
 import Github from "../../assets/github.png";
 import Header from "../../Components/Header";
 import Playstore from "../../assets/playstore.png";
@@ -22,6 +23,11 @@ const icons = [
     src: Bidoo,
     alt: "bidoo",
     link: "https://play.google.com/store/apps/details?id=com.bidoo_analyzer",
+  },
+  {
+    src: Colorbrush,
+    alt: "colorbrush",
+    link: "https://play.google.com/store/apps/details?id=com.colorbrush",
   },
   {
     src: ButtonLand,
