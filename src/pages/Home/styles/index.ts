@@ -20,7 +20,7 @@ const useStyles = makeStyles(() => ({
     },
     text:{
         fontFamily: "IBM Plex Sans Condensed !important",
-        fontWeight:'500 !important',
+        fontWeight:'bold !important',
         fontSize:'1.5rem !important'
     },
     icon:{
@@ -30,8 +30,6 @@ const useStyles = makeStyles(() => ({
         cursor:'pointer'
     },
     button:{
-        // width:'5rem',
-        // height:'5rem',
         width:'228px',
         height:'64px',
         padding:'1rem',
